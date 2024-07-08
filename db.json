@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "id": "f16c",
+      "name": "Edwin Padberg"
+    },
+    {
+      "id": "7ac6",
+      "name": "Adam Schinner"
+    },
+    {
+      "id": "88db",
+      "name": "Daryl Tromp"
+    },
+    {
+      "id": "0de8",
+      "name": "Charlene Kling"
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "6534",
+      "userId": "1",
+      "title": "Unbranded Granite Cheese"
+    },
+    {
+      "id": "9928",
+      "userId": "7ac6",
+      "title": "Modern Granite Fish"
+    },
+    {
+      "id": "e643",
+      "userId": "7ac6",
+      "title": "Bespoke Rubber Shirt"
+    },
+    {
+      "id": "32b2",
+      "userId": "f16c",
+      "title": "Incredible Frozen Fish"
+    },
+    {
+      "id": "34e6",
+      "userId": "f16c",
+      "title": "Rustic Rubber Pizza"
+    },
+    {
+      "id": "29e7",
+      "userId": "0de8",
+      "title": "Licensed Wooden Pizza"
+    },
+    {
+      "id": "c991",
+      "userId": "1",
+      "title": "Oriental Cotton Bike"
+    },
+    {
+      "id": "0d91",
+      "userId": "1",
+      "title": "Modern Cotton Pants"
+    },
+    {
+      "id": "a8f1",
+      "userId": "88db",
+      "title": "Tasty Steel Ball"
+    },
+    {
+      "id": "7e6d",
+      "userId": "88db",
+      "title": "Generic Steel Fish"
+    },
+    {
+      "id": "09ef",
+      "userId": "88db",
+      "title": "Fantastic Rubber Bacon"
+    }
+  ],
+  "photos": [
+    {
+      "id": "c1e9",
+      "albumId": "9928",
+      "url": "https://loremflickr.com/150/150/abstract?lock=25816"
+    },
+    {
+      "id": "faef",
+      "albumId": "9928",
+      "url": "https://loremflickr.com/150/150/abstract?lock=62700"
+    },
+    {
+      "id": "de64",
+      "albumId": "32b2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=26867"
+    },
+    {
+      "id": "2217",
+      "albumId": "34e6",
+      "url": "https://loremflickr.com/150/150/abstract?lock=10535"
+    },
+    {
+      "id": "7869",
+      "albumId": "32b2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=33109"
+    }
+  ]
+}
